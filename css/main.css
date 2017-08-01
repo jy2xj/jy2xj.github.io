@@ -58,3 +58,7 @@ ul.posts li {
   solid: black;
   text-align: center;
 }
+
+#bigFont li{
+font-size:8px;
+}
