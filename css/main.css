@@ -52,7 +52,7 @@ ul.posts li {
 
 .inner {
   width: 300px;
-  height: 450px;
+  height: 475px;
   margin: 5%;
   border-style: solid;
   solid: black;
@@ -60,5 +60,5 @@ ul.posts li {
 }
 
 #bigFont li{
-font-size:8px;
+    font-size:20px;
 }
