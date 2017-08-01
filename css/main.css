@@ -54,6 +54,7 @@ ul.posts li {
   width: 300px;
   height: 475px;
   margin: 5%;
+  padding:10px;
   border-style: solid;
   solid: black;
   text-align: center;
